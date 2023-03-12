@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Travimadox
-- 👀 I’m interested in python and C++
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in C,C++ and Rust for Embedded Systems
+- 💞️ I’m looking to collaborate on Embedded Systems Projects.
 - 📫 How to reach me travimadoxcobbwebb@gmail.com
 
 <!---
