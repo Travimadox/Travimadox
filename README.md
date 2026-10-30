@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Travimadox Webb</h1>
 <h3 align="center">Robotics Researcher · Semantic Navigation for Agricultural Robots</h3>
 
-- 🎓 Electrical & Computer Engineering graduate, now doing robotics research at the **African Robotics Unit (ARU)** <!-- TODO: add degree, e.g. "MSc student" -->
+- 🎓 MSc Electrical Engineering (specialising in Robotics), researching at the **African Robotics Unit (ARU)**
 
 - 🔭 I'm currently building **[SANA](https://travimadox.github.io/sana-map-page/)**, a Semantic Agricultural Navigation Agent: a robot that uses scene understanding (crop rows, plants, obstacles, terrain) to navigate farm fields instead of relying on geometry alone.
 
@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 | Project | Description |
 |---|---|
 | [SANA-map](https://github.com/Travimadox/SANA-map) · [Project page](https://travimadox.github.io/sana-map-page/) | Semantic Agricultural Navigation Agent: semantic perception and navigation for agricultural field robots *(research)* |
-| TA Automation Tools <!-- TODO: add repo link --> | Python scripts automating teaching-assistant admin tasks |
 
 <h3 align="left">Languages and Tools:</h3>
 
