@@ -5,26 +5,24 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Travimadox Webb</h1>
 <h3 align="center">Robotics Researcher · Semantic Navigation for Agricultural Robots</h3>
 
-<!-- TODO: confirm degree / lab / institution -->
-- 🎓 Electrical & Computer Engineering graduate, now doing robotics research <!-- TODO: e.g. "MSc student at <University>, <Lab>" -->
+- 🎓 Electrical & Computer Engineering graduate, now doing robotics research at the **African Robotics Unit (ARU)** <!-- TODO: add degree, e.g. "MSc student" -->
 
-- 🔭 I'm currently building a **Semantic Agricultural Navigation Agent**: a robot that uses scene understanding (crop rows, plants, obstacles, terrain) to navigate farm fields instead of relying on geometry alone.
+- 🔭 I'm currently building **[SANA](https://travimadox.github.io/sana-map-page/)**, a Semantic Agricultural Navigation Agent: a robot that uses scene understanding (crop rows, plants, obstacles, terrain) to navigate farm fields instead of relying on geometry alone.
 
 - 🌱 Research interests: semantic perception, vision-language models for robot navigation, learning-based planning, and field robotics.
 
-- 🧑‍🏫 Teaching Assistant: I write Python tooling to automate the admin side of the job (grading pipelines, mark collation, course logistics).
+- 🧑‍🏫 Assistant Lecturer for **Embedded Systems** and Teaching Assistant. I also write Python tools that automate the admin side of teaching (grading pipelines, mark collation, course logistics).
 
 - 🛠️ Earlier work: Embedded Systems (C/C++/Rust), Evolutionary Computing, and Origami Robotics.
 
 - 💞️ Open to collaborating on agricultural/field robotics, robot navigation, and embodied AI.
 
-<!-- TODO: link your main repos -->
 <h3 align="left">📌 Featured Work:</h3>
 
 | Project | Description |
 |---|---|
-| [Semantic Agricultural Navigation Agent](https://github.com/Travimadox) | Semantic perception + navigation for agricultural field robots *(research)* |
-| [TA Automation Tools](https://github.com/Travimadox) | Python scripts automating teaching-assistant admin tasks |
+| [SANA-map](https://github.com/Travimadox/SANA-map) · [Project page](https://travimadox.github.io/sana-map-page/) | Semantic Agricultural Navigation Agent: semantic perception and navigation for agricultural field robots *(research)* |
+| TA Automation Tools <!-- TODO: add repo link --> | Python scripts automating teaching-assistant admin tasks |
 
 <h3 align="left">Languages and Tools:</h3>
 
